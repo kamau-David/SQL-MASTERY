@@ -1,0 +1,6 @@
+{
+  "name": "03-joins",
+  "version": "1.0.0",
+  "scripts": { "start": "node run.js" },
+  "dependencies": { "better-sqlite3": "^11.3.0" }
+}
