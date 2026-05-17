@@ -1,0 +1,5 @@
+{
+  "name": "13-connecting-from-nodejs",
+  "version": "1.0.0",
+  "dependencies": { "better-sqlite3": "^11.3.0", "pg": "^8.12.0" }
+}
